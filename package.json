@@ -1,0 +1,17 @@
+{
+  "name": "offerpool",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bank-card offers, unlocked: a helper with the right card buys it for you, and you keep most of the discount.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vite": "^8.3.8",
+    "vitest": "^5.1.2"
+  }
+}
