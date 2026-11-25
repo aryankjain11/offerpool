@@ -4,6 +4,11 @@
   "private": true,
   "description": "Bank-card offers, unlocked: a helper with the right card buys it for you, and you keep most of the discount.",
   "type": "module",
+  "homepage": "https://offerpool.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aryankjain11/offerpool.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
