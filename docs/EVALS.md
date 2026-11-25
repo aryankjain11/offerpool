@@ -1,6 +1,8 @@
 # Evals for OfferPool
 
-**App:** https://claude.ai/artifact/GgeULbqvWKGdbFdxAuP8wK (open the **Evals** tab to run them live)
+**App:** https://offerpool.vercel.app. Open the **Tests** tab to run the evals live, or run `npm test` in this repo. The evals live in [`src/evals.js`](../src/evals.js).
+
+![The Tests tab](screenshots/10-tests.png)
 
 I tested OfferPool in two ways:
 
